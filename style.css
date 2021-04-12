@@ -1,1 +1,25 @@
-body { font-family: Arial, Helvetica, sans-serif;}
+body {max-width: 1300px;margin:auto;
+    font-family: Arial, Helvetica, sans-serif;}
+.top {padding-top:4px;
+    padding-left:80px;padding-right: 80px; margin:auto;
+    background-color: rgb(155, 153, 153);display:flex;}
+.top-sound  { block-size: auto 100%;
+background-color: rgb(63, 61, 61); position:relative;
+margin-top: auto; padding-bottom: 40px; padding-left: 80px;
+padding-top: 40px}
+.menu-top {background-color:thistle; position:relative; float:left;
+    right: 10px;
+    left: 480px;bottom:60px;display:inline-flex; font-size: 14px; font-family: monospace; 
+    padding-left: 5px;
+    margin-left: 10px; margin-right:5px; padding-right: 3px;letter-spacing: 1px;
+    }
+    a:link {color: rgb(238, 224, 224);}
+    a:visited {color: rgb(143, 111, 111);}
+    a:hover {color: hotpink;
+        text-decoration:gainsboro;}
+.first-block-shop-now {background-image: url(img/titlePic.jpg);block-size: 600px;
+    width: 500px;}
+
+.social-media { background-color: honeydew; position:relative;float:right;left: 0px;}
+
+            
